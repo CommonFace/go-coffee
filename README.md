@@ -1,3 +1,3 @@
 # go-coffee
 
-22.09.06 initial commit
+22.09.06 Initial Commit
