@@ -8,7 +8,8 @@
 
 # ERROR  
   
-22.09.11 java.lang.RuntimeException: '-1073741515' and output  
+22.09.11  
+java.lang.RuntimeException: '-1073741515' and output  
 wix이 MySQL 8.0 이상에서 windows 10 이상에서 지원하지 않는 문제  
 
 해결방법  
