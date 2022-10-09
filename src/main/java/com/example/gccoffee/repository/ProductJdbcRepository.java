@@ -13,7 +13,7 @@ import static com.example.gccoffee.JdbcUtils.toLocalDateTime;
 import static com.example.gccoffee.JdbcUtils.toUUID;
 
 @Repository
-public class ProductJdbcRepository implements ProductRepository {
+public class  ProductJdbcRepository implements ProductRepository {
 
     private final NamedParameterJdbcTemplate jdbcTemplate;
 
